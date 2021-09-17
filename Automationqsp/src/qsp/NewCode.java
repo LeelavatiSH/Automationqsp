@@ -4,7 +4,7 @@ public class NewCode {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("hi I am from New Code");
+		System.out.println("LeelavatiSH");
 	}
 
 }
